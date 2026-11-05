@@ -1,0 +1,1 @@
+Copiar estos dos archivos a la carpeta que contiene baseball5-ndi (ej: C:\Users\claud\Videos\Baseball5).
