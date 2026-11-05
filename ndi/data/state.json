@@ -1,0 +1,285 @@
+{
+  "event": {
+    "name": "Panamericano de Clubes",
+    "status": ""
+  },
+  "match": {
+    "gameId": "",
+    "set": 2,
+    "inning": 5,
+    "half": "BOTTOM",
+    "outs": 0,
+    "bases": {
+      "first": true,
+      "second": true,
+      "third": true
+    },
+    "teams": {
+      "away": {
+        "name": "Club San Pedro",
+        "short": "SP",
+        "color": "#20a8b4",
+        "score": 11,
+        "setsWon": 0,
+        "line": [
+          5,
+          0,
+          0,
+          5,
+          1
+        ],
+        "logo": "assets/logos/club-san-pedro.png"
+      },
+      "home": {
+        "name": "Midland",
+        "short": "MID",
+        "color": "#123f9d",
+        "score": 13,
+        "setsWon": 0,
+        "line": [
+          2,
+          2,
+          2,
+          5,
+          4
+        ],
+        "logo": "assets/logos/ncm.png"
+      }
+    }
+  },
+  "theme": {
+    "ink": "#10151b",
+    "panel": "#17222c",
+    "teal": "#00a78e",
+    "coral": "#ff4f5e",
+    "gold": "#ffc83d",
+    "paper": "#f7f3ea",
+    "white": "#ffffff"
+  },
+  "ndi": {
+    "sourceName": "B5 Scorebug",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "alpha": true,
+    "activeGraphic": "scoreboard",
+    "visible": true,
+    "scorebugVisible": false,
+    "playerVisible": false
+  },
+  "scoreboard": {
+    "title": "LINE SCORE",
+    "subtitle": "Panamericano de Clubes"
+  },
+  "matchup": {
+    "title": "Panamericano de Clubes",
+    "subtitle": " ",
+    "round": "Round Robin",
+    "venue": "Buenos Aires, Argentina",
+    "titleScale": 1
+  },
+  "rosters": {
+    "title": "TEAM ROSTER",
+    "subtitle": "Panamericano de Clubes",
+    "away": {
+      "playersText": "21  Aldama Sofía  F\n13  Flaiman Enzo  M\n6  Lobais Fermani Alma  F\n8  Botta Donato  M\n18  Vellón Francisco  M\n5  Silicani Francesca  F\n3  Pascual Greta  F\n25  Sánchez Rivero Onniel Andrés  M\nAldama Natalia  Manager\nSánchez Rivero Onniel David  Manager"
+    },
+    "home": {
+      "playersText": "52  Mariglio Isabella Oriana  F\n7  Aranibar Samira  F\n16  Rivarola Kiara Antonella  F\n14  Gonzalez Luz Agustina  F\n8  Grimolizzi Facundo  M\n25  Cansino Maximiliano Ramon  M\n5  Carrizo Thiago Ariel  M\n15  Bonilla Romelio Nazareno  M\nMariglio Daniel Cesar  Manager\nSagari Silvia  Manager"
+    }
+  },
+  "umpires": {
+    "title": "OFFICIALS",
+    "subtitle": "Panamericano de Clubes",
+    "crewText": "HP  MOLARO CLAUDIO  ARG\n1B  MOLARO CLAUDIO  ARG\n2B  MOLARO CLAUDIO  ARG\n3B  MOLARO CLAUDIO  ARG"
+  },
+  "player": {
+    "title": "PLAYER",
+    "subtitle": "Panamericano de Clubes",
+    "teamSide": "home",
+    "number": "7",
+    "name": "Aranibar Samira",
+    "detail": "Midland"
+  },
+  "commentators": {
+    "title": "COMMENTATORS",
+    "subtitle": "Panamericano de Clubes",
+    "layout": "two",
+    "name1": "Adrian Gonzalez",
+    "role1": "Play by Play",
+    "name2": "Leonardo Rams",
+    "role2": "Analyst"
+  },
+  "upcoming": {
+    "title": "UPCOMING GAMES",
+    "subtitle": "Panamericano de Clubes",
+    "count": "3",
+    "games": [
+      {
+        "away": "Brazil",
+        "home": "Argentina",
+        "time": "18:00",
+        "court": "Court 1",
+        "round": "Group Stage",
+        "status": "Next"
+      },
+      {
+        "away": "Chile",
+        "home": "Uruguay",
+        "time": "19:00",
+        "court": "Court 1",
+        "round": "Group Stage",
+        "status": "Game 2"
+      },
+      {
+        "away": "Peru",
+        "home": "Colombia",
+        "time": "20:00",
+        "court": "Court 1",
+        "round": "Group Stage",
+        "status": "Game 3"
+      }
+    ]
+  },
+  "excel": {
+    "source": "C:\\Users\\claud\\Videos\\Baseball5\\Datos.xlsx",
+    "updatedAt": "2026-08-24T13:29:20.187Z",
+    "home": [
+      {
+        "number": "52",
+        "name": "Mariglio Isabella Oriana",
+        "role": "F"
+      },
+      {
+        "number": "7",
+        "name": "Aranibar Samira",
+        "role": "F"
+      },
+      {
+        "number": "16",
+        "name": "Rivarola Kiara Antonella",
+        "role": "F"
+      },
+      {
+        "number": "14",
+        "name": "Gonzalez Luz Agustina",
+        "role": "F"
+      },
+      {
+        "number": "8",
+        "name": "Grimolizzi Facundo",
+        "role": "M"
+      },
+      {
+        "number": "25",
+        "name": "Cansino Maximiliano Ramon",
+        "role": "M"
+      },
+      {
+        "number": "5",
+        "name": "Carrizo Thiago Ariel",
+        "role": "M"
+      },
+      {
+        "number": "15",
+        "name": "Bonilla Romelio Nazareno",
+        "role": "M"
+      },
+      {
+        "number": "",
+        "name": "Mariglio Daniel Cesar",
+        "role": "Manager"
+      },
+      {
+        "number": "",
+        "name": "Sagari Silvia",
+        "role": "Manager"
+      }
+    ],
+    "away": [
+      {
+        "number": "21",
+        "name": "Aldama Sofía",
+        "role": "F"
+      },
+      {
+        "number": "13",
+        "name": "Flaiman Enzo",
+        "role": "M"
+      },
+      {
+        "number": "6",
+        "name": "Lobais Fermani Alma",
+        "role": "F"
+      },
+      {
+        "number": "8",
+        "name": "Botta Donato",
+        "role": "M"
+      },
+      {
+        "number": "18",
+        "name": "Vellón Francisco",
+        "role": "M"
+      },
+      {
+        "number": "5",
+        "name": "Silicani Francesca",
+        "role": "F"
+      },
+      {
+        "number": "3",
+        "name": "Pascual Greta",
+        "role": "F"
+      },
+      {
+        "number": "25",
+        "name": "Sánchez Rivero Onniel Andrés",
+        "role": "M"
+      },
+      {
+        "number": "",
+        "name": "Aldama Natalia",
+        "role": "Manager"
+      },
+      {
+        "number": "",
+        "name": "Sánchez Rivero Onniel David",
+        "role": "Manager"
+      }
+    ],
+    "umpires": [
+      {
+        "number": "HP",
+        "name": "MOLARO CLAUDIO",
+        "role": "ARG"
+      },
+      {
+        "number": "1B",
+        "name": "MOLARO CLAUDIO",
+        "role": "ARG"
+      },
+      {
+        "number": "2B",
+        "name": "MOLARO CLAUDIO",
+        "role": "ARG"
+      },
+      {
+        "number": "3B",
+        "name": "MOLARO CLAUDIO",
+        "role": "ARG"
+      }
+    ]
+  },
+  "vmix": {
+    "input": "",
+    "scoreboardInput": "",
+    "matchupInput": "",
+    "rosterAwayInput": "",
+    "rosterHomeInput": "",
+    "umpiresInput": "",
+    "playerInput": "",
+    "commentatorsInput": "",
+    "upcomingInput": ""
+  }
+}

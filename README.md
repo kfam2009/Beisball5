@@ -1,3 +1,16 @@
+# Panel GO Baseball5
+
+Este repo tiene dos versiones del panel de gráficos de Baseball5:
+
+| Carpeta | Cómo llega a vMix | Puerto |
+|---|---|---|
+| `/` (raíz) | Inputs **Browser** en vMix, In/Out por API de vMix | 8126 |
+| [`ndi/`](ndi/) | Una fuente **NDI "B5 Scorebug"** (Electron + `grandi`), In/Out dentro del render. En vMix: input NDI `OKLA2025 (B5 Scorebug)` | 8135 |
+
+**Versión NDI (la usada en producción):** `cd ndi && npm install`, luego `scripts\START_NDI_SCOREBUG.cmd`. Requiere NDI Runtime 6. Incluye acciones para Stream Deck en `ndi/scripts/streamdeck`.
+
+---
+
 # B5 Scorebug for vMix
 
 English control panel and transparent scorebug overlay.
