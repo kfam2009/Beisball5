@@ -1,0 +1,256 @@
+{
+  "event": {
+    "name": "Panamericano de Clubes",
+    "status": "LIVE"
+  },
+  "theme": {
+    "ink": "#10151b",
+    "panel": "#17222c",
+    "teal": "#00a78e",
+    "mint": "#9df1d7",
+    "coral": "#ff4f5e",
+    "gold": "#ffc83d",
+    "paper": "#f7f3ea",
+    "white": "#ffffff"
+  },
+  "match": {
+    "gameId": "",
+    "set": 1,
+    "inning": 2,
+    "half": "TOP",
+    "outs": 0,
+    "bases": {
+      "first": false,
+      "second": false,
+      "third": false
+    },
+    "teams": {
+      "away": {
+        "name": "Brazil",
+        "short": "BRA",
+        "color": "#1f9d55",
+        "score": 0,
+        "line": [
+          0,
+          0
+        ],
+        "record": "1-1",
+        "setsWon": 0
+      },
+      "home": {
+        "name": "Argentina",
+        "short": "ARG",
+        "color": "#d3dde4",
+        "score": 0,
+        "line": [
+          0,
+          0
+        ],
+        "record": "2-0",
+        "setsWon": 0
+      }
+    }
+  },
+  "scoreboard": {
+    "title": "PANAMERICANO DE CLUBES",
+    "subtitle": " "
+  },
+  "matchup": {
+    "title": " PANAMERICANO DE CLUBES",
+    "subtitle": " ",
+    "titleScale": 0.85,
+    "round": "",
+    "venue": "Buenos Aires, Argentina"
+  },
+  "rosters": {
+    "title": "Panamericano de Clubes",
+    "subtitle": " ",
+    "away": {
+      "playersText": "19  Pepe el Tuerto  M\n20  Rafael Costa  M\n21  Joao Pereira  M\n22  Mateo Santos  F\n23  Bruno Lima  F\n24  Pedro Rocha  F\n25  Caio Almeida  M\n26  Thiago Martins  M\nHC  Marcos Souza  Head Coach\nHC  Marcos Souza  Head Coach"
+    },
+    "home": {
+      "playersText": "1  Lucas Silva  M\n2  Rafael Costa  M\n3  Joao Pereira  M\n4  Mateo Santos  F\n5  Bruno Lima  F\n6  Pedro Rocha  F\n7  Caio Almeida  M\n8  Thiago Martins  M\nHC  Marcos Souza  Head Coach"
+    }
+  },
+  "umpires": {
+    "title": "OFFICIALS",
+    "subtitle": "Panamericano de Clubes",
+    "crewText": "HP  MOLARO CLAUDIO  ARG\n1B  MOLARO CLAUDIO  ARG\n2B  MOLARO CLAUDIO  ARG\n3B  MOLARO CLAUDIO  ARG"
+  },
+  "player": {
+    "title": "PLAYER",
+    "subtitle": "Panamericano de Clubes",
+    "teamSide": "home",
+    "number": "7",
+    "name": "Caio Almeida",
+    "detail": "Argentina"
+  },
+  "commentators": {
+    "title": "COMMENTATORS",
+    "subtitle": "Panamericano de Clubes",
+    "layout": "one",
+    "name1": "JAVIER GARCIA",
+    "role1": "Play-by-play",
+    "name2": "Commentator Two",
+    "role2": "Analyst"
+  },
+  "vmix": {
+    "host": "127.0.0.1",
+    "port": 8088,
+    "input": "14",
+    "scoreboardInput": "8",
+    "matchupInput": "9",
+    "rosterAwayInput": "11",
+    "rosterHomeInput": "10",
+    "umpiresInput": "12",
+    "playerInput": "13",
+    "commentatorsInput": "15",
+    "overlayChannel": "1",
+    "upcomingInput": "16"
+  },
+  "excel": {
+    "source": "C:\\Users\\claud\\Videos\\Baseball5\\Datos.xlsx",
+    "updatedAt": "2026-08-15T14:36:03.625Z",
+    "home": [
+      {
+        "number": "1",
+        "name": "Lucas Silva",
+        "role": "M"
+      },
+      {
+        "number": "2",
+        "name": "Rafael Costa",
+        "role": "M"
+      },
+      {
+        "number": "3",
+        "name": "Joao Pereira",
+        "role": "M"
+      },
+      {
+        "number": "4",
+        "name": "Mateo Santos",
+        "role": "F"
+      },
+      {
+        "number": "5",
+        "name": "Bruno Lima",
+        "role": "F"
+      },
+      {
+        "number": "6",
+        "name": "Pedro Rocha",
+        "role": "F"
+      },
+      {
+        "number": "7",
+        "name": "Caio Almeida",
+        "role": "M"
+      },
+      {
+        "number": "8",
+        "name": "Thiago Martins",
+        "role": "M"
+      },
+      {
+        "number": "HC",
+        "name": "Marcos Souza",
+        "role": "Head Coach"
+      }
+    ],
+    "away": [
+      {
+        "number": "19",
+        "name": "Pepe el Tuerto",
+        "role": "M"
+      },
+      {
+        "number": "20",
+        "name": "Rafael Costa",
+        "role": "M"
+      },
+      {
+        "number": "21",
+        "name": "Joao Pereira",
+        "role": "M"
+      },
+      {
+        "number": "22",
+        "name": "Mateo Santos",
+        "role": "F"
+      },
+      {
+        "number": "23",
+        "name": "Bruno Lima",
+        "role": "F"
+      },
+      {
+        "number": "24",
+        "name": "Pedro Rocha",
+        "role": "F"
+      },
+      {
+        "number": "25",
+        "name": "Caio Almeida",
+        "role": "M"
+      },
+      {
+        "number": "26",
+        "name": "Thiago Martins",
+        "role": "M"
+      },
+      {
+        "number": "HC",
+        "name": "Marcos Souza",
+        "role": "Head Coach"
+      },
+      {
+        "number": "HC",
+        "name": "Marcos Souza",
+        "role": "Head Coach"
+      }
+    ]
+  },
+  "visibility": {
+    "scorebug": true,
+    "scoreboard": true,
+    "matchup": true,
+    "rosterAway": true,
+    "rosterHome": true,
+    "umpires": true,
+    "player": true,
+    "commentators": true,
+    "upcoming": true
+  },
+  "upcoming": {
+    "title": "UPCOMING GAMES",
+    "subtitle": "Panamericano de Clubes",
+    "count": "1",
+    "games": [
+      {
+        "away": "Brazil",
+        "home": "Argentina",
+        "time": "18:00",
+        "court": "Court 1",
+        "round": "Group Stage",
+        "status": "Next"
+      },
+      {
+        "away": "Chile",
+        "home": "Uruguay",
+        "time": "19:00",
+        "court": "Court 1",
+        "round": "Group Stage",
+        "status": "Game 2"
+      },
+      {
+        "away": "",
+        "home": "",
+        "time": "",
+        "court": "",
+        "round": "",
+        "status": ""
+      }
+    ]
+  }
+}
